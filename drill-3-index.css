@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+
+
+.top-rect {
+    background-color: rgb(214, 214, 214);
+    width: 100vw;
+    height: 10vh;
+    padding-top: 10px;
+
+}
+
+.upper-square {
+    background-color: rgb(59, 144, 227);
+    height: 5vh;
+    width: 3vw;
+    padding:12px;
+    margin-left:25px;
+    bottom: 1.5vh;
+ 
+}
+
+.rect-w-text {
+    box-sizing: border-box;
+    background-color: white;
+    width: 100vw;
+    height: 30vh;
+    padding: 5%
+}
+
+.text {
+    text-align: justify;
+    font-size: 2.5vh;
+    
+}
+
+.bottom-4-rect {
+    height: 15vh;
+    width: 100vw;
+
+}
+
+#blue-rect {
+    background-color: rgb(59, 144, 227);
+}
+
+#teal-rect {
+    background-color: rgb(0, 233, 194);
+}
+
+#olive-rect {
+    background-color: rgb(173, 237, 132);
+}
+
+#yellow-rect {
+    background-color: rgb(249, 233, 0);
+}
+
